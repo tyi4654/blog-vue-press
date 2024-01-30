@@ -6,7 +6,7 @@ heroHeight: 200
 tagline: 静态文档
 title: 思途文档中心
 actions:
-  - text: 快速上手
+  - text: 关于我们
     link: /guide/
     type: primary
   - text: 项目简介

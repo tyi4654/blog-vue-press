@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as n}from"./app-ZuSuMYJS.js";const o={},r=e("h3",{id:"组件全局管理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#组件全局管理","aria-hidden":"true"},"#"),n(" 组件全局管理")],-1),s=[r];function d(_,i){return a(),c("div",null,s)}const l=t(o,[["render",d],["__file","index.html.vue"]]);export{l as default};

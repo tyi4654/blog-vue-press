@@ -4,8 +4,9 @@ title: 下拉框
 
 ### 下拉框
 
-::: demo asdasd
+::: demo 下拉框
 
+``` vue
 <el-select v-model="value" class="m-2" placeholder="Select" size="large">
     <el-option
       v-for="item in options"
@@ -65,5 +66,6 @@ export default defineComponent({
     }
 })
 </script>
+```
 
 :::
