@@ -190,7 +190,8 @@ export default defineUserConfig({
                     ]
                 }
             ]
-        }
+        },
+        lastUpdated: false
     }),
     plugins: [vuepressPluginV2Demoblock()]
 })
